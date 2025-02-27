@@ -13,3 +13,5 @@
 - games/{game}/data/images/: holds to be trained images 
 - games/{game}/data/labels/: holds to be trained labels for images folder
 - games/{game}/data/models/: holds models
+
+

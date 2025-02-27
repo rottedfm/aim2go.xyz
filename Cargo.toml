@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+clap = { version = "4.5.31", features = ["derive"] }
+console = { version = "0.15.10", features = ["windows-console-colors"] }
+dialoguer = "0.11.0"
+serde = { version = "1.0.218", features = ["derive"] }
+serde_yaml = "0.9.34"
